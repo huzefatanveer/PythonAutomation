@@ -1,0 +1,108 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capital Quiz (Form 29)
+
+%s. What is the capital of (1, 'Kansas')?
+
+%s. What is the capital of (2, 'Ohio')?
+
+%s. What is the capital of (3, 'Massachusetts')?
+
+%s. What is the capital of (4, 'Kentucky')?
+
+%s. What is the capital of (5, 'Montana')?
+
+%s. What is the capital of (6, 'Michigan')?
+
+%s. What is the capital of (7, 'Vermont')?
+
+%s. What is the capital of (8, 'Connecticut')?
+
+%s. What is the capital of (9, 'Mississippi')?
+
+%s. What is the capital of (10, 'Pennsylvania')?
+
+%s. What is the capital of (11, 'Wisconsin')?
+
+%s. What is the capital of (12, 'Maine')?
+
+%s. What is the capital of (13, 'Indiana')?
+
+%s. What is the capital of (14, 'Delaware')?
+
+%s. What is the capital of (15, 'Texas')?
+
+%s. What is the capital of (16, 'Rhode Island')?
+
+%s. What is the capital of (17, 'Tennessee')?
+
+%s. What is the capital of (18, 'California')?
+
+%s. What is the capital of (19, 'Wyoming')?
+
+%s. What is the capital of (20, 'Hawaii')?
+
+%s. What is the capital of (21, 'Arizona')?
+
+%s. What is the capital of (22, 'Missouri')?
+
+%s. What is the capital of (23, 'Oklahoma')?
+
+%s. What is the capital of (24, 'Maryland')?
+
+%s. What is the capital of (25, 'Idaho')?
+
+%s. What is the capital of (26, 'Georgia')?
+
+%s. What is the capital of (27, 'Nevada')?
+
+%s. What is the capital of (28, 'Nebraska')?
+
+%s. What is the capital of (29, 'North Dakota')?
+
+%s. What is the capital of (30, 'Alabama')?
+
+%s. What is the capital of (31, 'Colorado')?
+
+%s. What is the capital of (32, 'Iowa')?
+
+%s. What is the capital of (33, 'Louisiana')?
+
+%s. What is the capital of (34, 'Illinois')?
+
+%s. What is the capital of (35, 'Washington')?
+
+%s. What is the capital of (36, 'Oregon')?
+
+%s. What is the capital of (37, 'South Dakota')?
+
+%s. What is the capital of (38, 'Florida')?
+
+%s. What is the capital of (39, 'Virginia')?
+
+%s. What is the capital of (40, 'WestVirginia')?
+
+%s. What is the capital of (41, 'New York')?
+
+%s. What is the capital of (42, 'Arkansas')?
+
+%s. What is the capital of (43, 'New Jersey')?
+
+%s. What is the capital of (44, 'Utah')?
+
+%s. What is the capital of (45, 'NewMexico')?
+
+%s. What is the capital of (46, 'South Carolina')?
+
+%s. What is the capital of (47, 'North Carolina')?
+
+%s. What is the capital of (48, 'Alaska')?
+
+%s. What is the capital of (49, 'Minnesota')?
+
+%s. What is the capital of (50, 'New Hampshire')?
+
